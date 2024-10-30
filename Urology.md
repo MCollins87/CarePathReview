@@ -67,5 +67,8 @@ All tasks to be assigned to:
 	- YSN
 	- CM
 	- ML
-	
+
+## Model CarePath
+
+![Model CarePath](./Assets/CarePath.svg)
 	
