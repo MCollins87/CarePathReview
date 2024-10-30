@@ -70,5 +70,5 @@ All tasks to be assigned to:
 
 ## Model CarePath
 
-![Model CarePath](./Assets/CarePath.svg)
+![Model CarePath](./Assets/UrologyCarePath.svg)
 	
