@@ -54,7 +54,7 @@ All tasks to be assigned to:
  * [x] Block out time in Aria using watermarking
  * [x] Create CCO outlining taks as above.
  * [ ] Create Care Paths:
-	- [Prostate/Bed](./UrologyCarePath.md)
+	- [Prostate/Bed](./UrologyCarePaths.md)
 	- Prostate/Bed + Node
 	- Prostate SABR
 	- Prostate + Node SABR
