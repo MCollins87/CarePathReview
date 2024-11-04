@@ -37,7 +37,7 @@
 ## 2. Prostate and Prostate Bed with Nodes
 - Copy Prostate Only Care Path.
 
-![Prostate / Bed and Nodes Care Path](./ProstateNodes_Hormones.svg)
+![Prostate / Bed and Nodes Care Path](./Assets/ProstateNodes_Hormone.svg)
 
 | Activity           | Lag time  | Resource           | Water Mark |
 | ------------------ | --------  | -----------------  | ---------- |
